@@ -3,6 +3,7 @@ This is an unofficial port of MDETR into the 🤗 Trainer ecosystem.
 
 ### To-Do
 - [ ] Make sure original model can be loaded.
+- [ ] Remove 2 forward calls.
 - [ ] Make sure scheduler is compatible.
 - [ ] Put readMe from original.
 - [ ] train.py
